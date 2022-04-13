@@ -1,0 +1,161 @@
+[  {
+    "name":"Dr.Singla",
+    "speciality":"Heart",
+    "Availablity":[
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"9:30 - 9:50"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"9:50 - 10:10"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"10:10 - 10:30"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"11:00 - 11:20"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"11:20 - 11:50"
+        }
+    ],
+    "costPerAppointment":200
+},
+{
+    "name":"Dr.Garg",
+    "speciality":"Eye",
+    "Availablity":[
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"9:30 - 9:50"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"9:50 - 10:10"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"10:10 - 10:30"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"11:00 - 11:20"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"11:20 - 11:50"
+        }
+    ],
+    "costPerAppointment":300
+},
+{
+    "name":"Dr.Chaudhary",
+    "speciality":"Bones",
+    "Availablity":[
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"9:30 - 9:50"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"9:50 - 10:10"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"10:10 - 10:30"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"11:00 - 11:20"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"11:20 - 11:50"
+        }
+    ],
+    "costPerAppointment":200
+},
+{
+    "name":"Dr.Gupta",
+    "speciality":"Pulmonary",
+    "Availablity":[
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"9:30 - 9:50"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"9:50 - 10:10"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"10:10 - 10:30"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"11:00 - 11:20"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"11:20 - 11:50"
+        }
+    ],
+    "costPerAppointment":500
+},
+{
+    "name":"Dr.Dhingra",
+    "speciality":"Physotherapist",
+    "Availablity":[
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"9:30 - 9:50"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"9:50 - 10:10"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"10:10 - 10:30"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"11:00 - 11:20"
+        },
+        {
+            "isAvailable":true,
+            "date":"14-04-2022",
+            "time":"11:20 - 11:50"
+        }
+    ],
+    "costPerAppointment":300
+}
+]

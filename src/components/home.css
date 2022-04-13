@@ -1,0 +1,36 @@
+.container{
+    width: 100%;
+
+}
+.wrapper{
+    width: 80%;
+    
+    margin: auto;
+    margin-top: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    gap:50px;
+}
+
+
+.doctor-card{
+    width: 30%;
+    text-align: center;
+    background-color: rgb(198, 230, 230);
+    border-radius: 10%;
+    transition: all 0.5s;
+}
+.doctor-card:hover{
+    transform: translateY(-1vmax);
+}
+
+.doctor-card > img{
+    width: 80%;
+    margin: auto;
+}
+.doctor-name{
+    font-size: 26px;
+}
+.green{
+    color: green;
+}
