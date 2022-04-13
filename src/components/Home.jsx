@@ -21,10 +21,12 @@ const Home = () => {
           {data.map((dr) => {
             return (
               <Doctor
+              key={dr.id}
                 name={dr.name}
                 isAvailable={dr.isAvailable}
                 speciality={dr.speciality}
                 costPerAppointment={dr.costPerAppointment}
+                id={dr.id}
               />
             );
           })}

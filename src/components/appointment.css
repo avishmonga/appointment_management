@@ -1,0 +1,61 @@
+
+.appointment-container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 3%;
+}
+.img-wrapper{
+    text-align: center;
+}
+.img-wrapper img{
+    width: 100%;
+    height: 70%;
+}
+.img-wrapper h2{
+    font-size: 30px;
+    padding-top: 20px;
+
+}
+.appointment-wrapper{
+    width: 40%;
+    /* margin-top: 50px; */
+}
+.slots-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.slot-available{
+    background-color: rgb(145, 203, 203);
+    height: 40px;
+    font-size: 26px;
+    width: 60%;
+    border-radius: 40px;
+    text-align: center;
+    padding-top: 5px;
+    cursor: pointer;
+}
+.slot-container{
+    width: 40%;
+    margin: auto;
+    margin-top: 8%;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.slot-container input{
+    height: 40px;
+    padding-left: 30px;
+}
+.slot-container button{
+width: 150px;
+height: 50px;
+margin: auto;
+background-color: tomato;
+border: none;
+border-radius: 20px;
+font-size: 20px;
+}
